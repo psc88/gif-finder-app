@@ -6,5 +6,6 @@ Yoy can search for the gif you like the most, using the Fetch API from GIPHY Dev
 ### Created with:
     - React 18
     - Vite 4
+    - Jest
 
  
